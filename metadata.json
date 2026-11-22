@@ -1,0 +1,6 @@
+{
+  "name": "KaitenBill — ระบบคิดเงินซูชิสายพานและสแกนบาร์โค้ด",
+  "description": "แอปพลิเคชันคำนวณยอดอาหารซูชิสายพานแบ่งตามสีจาน 5 ระดับ พร้อมระบบสแกนบาร์โค้ดและคิวอาร์โค้ดอัตโนมัติ แสดงยอดก่อนและหลังคิดค่าบริการ 10% พร้อมซอร์สโค้ด Flutter & Dart",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
